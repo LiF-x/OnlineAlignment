@@ -1,6 +1,6 @@
 # OnlineAlignment
 
-[Download here](https://github.com/LiF-x/OnlineAlignment/releases/latest){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Download here](https://github.com/LiF-x/OnlineAlignment/releases/latest)
 
 ### Installation instructions
 
