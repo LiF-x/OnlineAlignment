@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "OnlineAlignment",
+  "name": "OnlineAlignment",
+  "version": "1.0.0",
+  "description": "Adjusts alignment for every online player based on settings in LiFx/config.cs.",
+  "authors": ["Christophe Roblin"],
+  "loadOrderHint": 100,
+  "files": {
+    "overlay": [
+      { "src": "mod.cs", "dest": "mods/OnlineAlignment/mod.cs" }
+    ],
+    "dataPatches": []
+  }
+}
