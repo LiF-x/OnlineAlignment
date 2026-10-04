@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "OnlineAlignment",
+  "name": "OnlineAlignment",
+  "version": "1.0.0",
+  "description": "Adjusts alignment for every online player based on settings in LiFx/config.cs.",
+  "authors": ["Christophe Roblin"],
+  "source": { "repo": "LiF-x/OnlineAlignment", "commit": "748ad50002644845c84d59984922ae2ededd2092" },
+  "baseline": { "gameBuild": "sha256:d47ef6156423f1226b6d07a1f31f81d3aa94bc460cc1ac76bcf7d7ef9c305d4a", "steamBuildId": "11261643" },
+  "license": "GPL-3.0-only",
+  "distribution": "hostable",
+  "dependencies": ["LiF-x/ServerAutoloader"],
+  "loadOrderHint": 100,
+  "files": {
+    "overlay": [
+      { "src": "mod.cs", "dest": "mods/OnlineAlignment/mod.cs" }
+    ],
+    "dataPatches": []
+  }
+}
